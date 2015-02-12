@@ -104,6 +104,23 @@ address {
   box-shadow: 4px 0px 2px #ccc;
 }
 
+.page {
+    display: table;
+    width: 100%;
+    min-height: 100%;
+}
+
+.content,
+.sidebar{
+    display: table-cell;
+    vertical-align: top;
+}
+
+.sidebar {
+    min-width: 12em;
+    background: rgba(237,237,237,1)
+}
+
 .grid:after {
   content: '';
   display: block;
