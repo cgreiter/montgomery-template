@@ -12,7 +12,6 @@
     -webkit-box-sizing: border-box;
       -moz-box-sizing: border-box;
         box-sizing: border-box;
-<<<<<<< HEAD
 }
 
 html,
@@ -25,11 +24,6 @@ margin: 0 auto;
 
 body {
   font-family: 'Segoe UI', sans-serif;
-=======
-    /* This should be in body {}, otherwise every element is forced to this font 
-     *font-family: 'Segoe UI', sans-serif;
-     */
->>>>>>> 7e9ea466eb329efa1d795c501b9d914eae81db58
 }
 
 h1 {
@@ -47,10 +41,7 @@ h2 {
 p {
   margin-top: 0;
   font-size: .7em;
-<<<<<<< HEAD
   color: #333333;
-=======
->>>>>>> 7e9ea466eb329efa1d795c501b9d914eae81db58
 }
 
 
@@ -60,35 +51,14 @@ ul {
   list-style: none;
 }
 
-<<<<<<< HEAD
 a:link {
     text-decoration: none;
     font-size: .7em;
-=======
-/* 
- * Though the mock-up shows bolded list items,
- * we may have non-bold list items in other parts of the site
- * such as in the mega menu.
- * Is there another way to do this without a global change?
- */
-ul li {
-  font-weight: bold;
-}
-
-a:link {
-    color: #031634;
-    font-size: 10px;
-    text-decoration: none;
->>>>>>> 7e9ea466eb329efa1d795c501b9d914eae81db58
 }
 
 a:visited {
     text-decoration: none;
-<<<<<<< HEAD
     color: inherit;
-=======
-    color: #031634;
->>>>>>> 7e9ea466eb329efa1d795c501b9d914eae81db58
 }
 
 a:hover {
@@ -125,13 +95,10 @@ address {
   max-width: 60em;
 }
 
-<<<<<<< HEAD
 .islet {
   padding: 8px 15px 8px 8px;
 }
 
-=======
->>>>>>> 7e9ea466eb329efa1d795c501b9d914eae81db58
 .main-content {
   width: 100%;
   box-shadow: 4px 0px 2px #ccc;
@@ -147,7 +114,6 @@ address {
   float: left;
 }
 
-<<<<<<< HEAD
 .col-1-5 {
   width: 20%;
 }
@@ -178,18 +144,6 @@ address {
 
 .col-7-10 {
   width: 70%;
-=======
-.col-1-2 {
-  width: 50%
-}
-
-.col-1-4 {
-  width: 25%
-}
-
-.col-3-4 {
-  width: 75%
->>>>>>> 7e9ea466eb329efa1d795c501b9d914eae81db58
 }
 
 .col-full {
@@ -204,11 +158,8 @@ address {
 }
 
 
-<<<<<<< HEAD
 
 
-=======
->>>>>>> 7e9ea466eb329efa1d795c501b9d914eae81db58
 /* Outer 3/4 Grid */
 .grid-col-outer-3-quarter {
   box-shadow: 0 0 15px 2px #ccc;
@@ -232,16 +183,11 @@ address {
 
 .sidebar-title h2 {
   margin-top: 0;
-<<<<<<< HEAD
   padding: 2px 5px;
-=======
-  padding: 8px;
->>>>>>> 7e9ea466eb329efa1d795c501b9d914eae81db58
   background-color: #031634;
   color: #fff;
 }
 
-<<<<<<< HEAD
 .secondary-links{
   padding-top: 15px;
   padding-bottom: 10px;
@@ -250,8 +196,6 @@ address {
   font-weight: bold;
 }
 
-=======
->>>>>>> 7e9ea466eb329efa1d795c501b9d914eae81db58
 .bottom-sidebar {
 
   /* Gradient Background */
@@ -282,7 +226,6 @@ address {
 
 .main-image {
   width:100%;
-<<<<<<< HEAD
   height: 171px;
 }
 
@@ -323,39 +266,6 @@ address {
   height: 125px;
   padding: 5px;
 
-=======
-}
-
-.supervisors {
-  background: #ccc;
-  margin-top: 0;
-}
-
-.supervisors h2 {
-  padding-left: 15px;
-  margin-bottom: 2px;
-}
-
-.supervisors img {
-  margin: 10px;
-  width: auto;
-  height: 125px;
-  padding: 5px;
-
-}
-
-.accordion {
-  background: #ccc;
-}
-
-.accordion h2 {
-  margin: 0 0 0 5px;
-}
-
-.accordion img {
-  margin-top: 0;
-  padding: 8px;
->>>>>>> 7e9ea466eb329efa1d795c501b9d914eae81db58
 }
 
 .narrow-list {
@@ -383,37 +293,16 @@ footer {
 
 footer p {
   margin: 0;
-<<<<<<< HEAD
   color: #fff;
-=======
->>>>>>> 7e9ea466eb329efa1d795c501b9d914eae81db58
 }
 
 .social-bar {
   background: #031634;
-<<<<<<< HEAD
-=======
-  color: #fff;
-
->>>>>>> 7e9ea466eb329efa1d795c501b9d914eae81db58
 }
 
 .copyright {
   background: #033649;
-<<<<<<< HEAD
-=======
-  color: #fff;
->>>>>>> 7e9ea466eb329efa1d795c501b9d914eae81db58
 }
 
 
 
-<<<<<<< HEAD
-=======
-
-
-
-
-
-
->>>>>>> 7e9ea466eb329efa1d795c501b9d914eae81db58
